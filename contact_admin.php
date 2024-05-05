@@ -49,18 +49,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="container">
 		
 		<div class="header-top-right">
-			<p>Phone Number:<span> 043-234-3453</span></p>
+			<p>Phone Number:<span> +91 987 654 3211</span></p>
 		</div>
 		<div class="clearfix"> </div>
-		<div class="head-logo">
+		<!-- <div class="head-logo">
 			<a href="index.php"><span> </span></a>
-		</div>
+		</div> -->
+		<div style="text-align: center; color:white;"><h1><strong>Super Gym</strong></h1></div>
 		<div class="header-top">
 		
 		<div class="navigation">
 				 <span class="menu"></span> 
 					<ul class="navig">
-						<li><a href="index.php" class="act">Home</a></li>
+						<li><a href="index.php" >Home</a></li>
 						<li class="plan active"><a href="#">LOGINS</a>
 							<ul class="sub-nav sub">
 								<li><a href="user_login/login.php">User login</a></li>
@@ -72,7 +73,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<li><a href="news.html">NEWS</a></li>
 						<li><a href="gallery.html">GALLERY</a></li>
 						<li><a href="trainers.html">TRAINERS</a></li> -->
-						<li><a href="contact_admin.php">CONTACT</a></li>
+						<li><a href="contact_admin.php" class="act">CONTACT</a></li>
 						<!-- <li><a href="#" class="home-box">CONTACT</a></li>
 						<div class="clearfix"> </div> -->
 					</ul>

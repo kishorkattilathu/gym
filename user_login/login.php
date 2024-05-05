@@ -34,6 +34,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						});
 					});
 				</script>
+				<style>
+					.mail
+						{
+							width: 483px;
+							height: 35px;
+						}
+					</style>
 </head>
 <body>
 	<h1>FORM USING TABS</h1>
@@ -53,7 +60,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					        <div class="register">
 						         <form method="post">
 							        <h3>E-mail:</h3>						
-							        <input placeholder="Email Address" class="mail" name="email1" type="text" required="">
+							        <input type="email" placeholder="Email Address" class="mail" name="email1"  required="">
 							        <h3>Password:</h3>							
 							        <input placeholder="Password" class="lock" name="password1" type="password" required="">										
 							        <div class="sign-up">
@@ -72,7 +79,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							        <h3>Phone:</h3>					
 							        <input placeholder="Phone" type="text"  name="phone" class="phone" required="">
 							        <h3>Email:</h3>
-							        <input placeholder="Email Address" type="text" class="mail" name="email" required="">	
+							        <input placeholder="Email Address" type="email" class="mail" name="email" required="">	
 							        <h3>Password:</h3>							
 							        <input placeholder="Password" type="password" name="password" required="">	
 							        <h3>Confirm Password:</h3>
@@ -178,7 +185,7 @@ if (isset($_POST['button1']))
 		$_SESSION['mail']=$email1;
 		// echo "<pre>"; print_r($_SESSION); echo "</pre>"; die('end of code');
 		echo "<script>alert('Log in Successfully')</script>";
-		echo "<script>window.location.href='../home.php'</script>";
+		echo "<script>window.location.href='../all_gym.php'</script>";
 
 	}
 	else

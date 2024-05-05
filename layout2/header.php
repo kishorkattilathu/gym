@@ -73,9 +73,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<p>Phone Number:<span> 987-654-3210</span></p>
 		</div>
 		<div class="clearfix"> </div>
-		<div class="head-logo">
+		<!-- <div class="head-logo">
 			<a href="index.html"><span> </span></a>
-		</div>
+		</div> -->
+		<div style="text-align: center; color:white;"><h1><strong>Super Gym</strong></h1></div>
 		<div class="header-top">
 		
 		<div class="navigation">

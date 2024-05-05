@@ -14,7 +14,7 @@ while ($fetch=mysqli_fetch_array($execute)) {
 
 ?>
 		<div class="gallery-grids">
-			<a href="single.php?id=<?=$fetch['gym_id']?>"><img src="gym_owner/images/<?=$fetch['gym_img']?>"></a>
+			<a href="single.php?id=<?=$fetch['gym_id']?>"><img style="height: 240px;width:300px;" src="gym_owner/images/<?=$fetch['gym_img']?>"></a>
 			<h4><a href="single.php?id=<?=$fetch['gym_id']?>"><?=$fetch['gym_name']?></a></h4>
 			<p><?=$fetch['description']?></p>
 		</div>

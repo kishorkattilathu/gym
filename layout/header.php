@@ -59,12 +59,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="container">
 		
 		<div class="header-top-right">
-			<p>Phone Number:<span> 987-654-3210</span></p>
+			<p>Phone Number:<span>  +91 987 654 3211</span></p>
 		</div>
 		<div class="clearfix"> </div>
-		<div class="head-logo">
+		<!-- <div class="head-logo">
 			<a href="index.html"><span> </span></a>
-		</div>
+		</div> -->
+		<div style="text-align: center; color:white;"><h1><strong>Super Gym</strong></h1></div>
 		<div class="header-top">
 		
 		<div class="navigation">
@@ -79,11 +80,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</ul>
 						</li> -->
 						<!-- <li><a href="single.html">PAGES</a></li> -->
-						<li><a href="logout.php">LOGOUT</a></li>
 						<!-- <li><a href="news.html">NEWS</a></li> -->
 						<li><a href="all_gym.php">Gyms</a></li>
 						<li><a href="my_trainer.php">My Trainer</a></li>
 						<li><a href="my_profile.php">My Profile</a></li>
+						<li><a href="logout.php">LOGOUT</a></li>
+
 						<!-- <li><a href="trainers.html">TRAINERS</a></li> -->
 						<!-- <li><a href="contact.php">CONTACT</a></li> -->
 						<div class="clearfix"> </div>

@@ -21,11 +21,11 @@
 		</div>
 		<div class="footer-nav">
 			<ul>
-				<li><a href="index.html" class="foot">HOME</a></li>
-				<li><a href="single.html">ABOUT</a></li>
-				<li><a href="news.html">NEWS</a></li>
-				<li><a href="trainers.html">ARCHIVES</a></li>
-				<li><a href="contact.html">CONTACT</a></li>
+				<li><a href="index.php" class="foot">HOME</a></li>
+				<li><a href="index.php">ABOUT</a></li>
+				<li><a href="index.php">NEWS</a></li>
+				<li><a href="index.php">ARCHIVES</a></li>
+				<li><a href="contact_admin.php">CONTACT</a></li>
 			</ul>
 		</div>
 		<p>Template by <a href="">Super Gym</a></p>

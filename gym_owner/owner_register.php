@@ -123,7 +123,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                   <span class="input-group-addon">
                     <i class="fa fa-envelope-o"></i>
                   </span>
-                  <input id="email" class="form-control1" name="email" required="" type="text">
+                  <input id="email" class="form-control1" name="email" required="" type="email">
                 </div>
               </div>
             </div>
